@@ -19,7 +19,7 @@ Homepage of my lab: [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yam
 
 ### Publications
 
-<img src="https://i.imgur.com/TSBMO6w.png" align="left" width="100"> 
+<img src="https://i.imgur.com/mBhgwmd.png" align="left" width="100">
 
 - [1] Runqiu Bao, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita, and Hajime Asama. Cost-effective and robust visual based localization with consumer-level cameras at construction sites. In Proceedings of the 2019 IEEE Global Conference on Consumer Electronics (GCCE 2019), pages 983–985,2019. 
 
