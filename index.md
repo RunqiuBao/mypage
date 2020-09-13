@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Runqiu Bao （包潤秋）
 
-You can use the [editor on GitHub](https://github.com/RunqiuBao/mypage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![profile](https://i.imgur.com/aJxtz6w.jpg)  | PhD student, Robotics & Computer Vision, Precision Engineering, University of Tokyo.
+                                             | [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yamalab/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+. Release of [code](https://github.com/RunqiuBao/kenki-positioning-vSLAM) for _vslam-based construction machine positioning_, 2020.08.11. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Curriculum Vitae
 
-```markdown
-Syntax highlighted code block
+. B.E degree from School of Automotive Engineering, Tongji University.
+. M.E degree from Department of Precision Engineering, University of Tokyo.
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
+![1](https://i.imgur.com/TSBMO6w.png) | . [1] Runqiu Bao, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita, and Hajime Asama. Cost-effective and robust visual based localization with consumer-level cameras at construction sites. In Proceedings of the 2019 IEEE Global Conference on Consumer Electronics (GCCE 2019), pages 983–985,2019. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RunqiuBao/mypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
