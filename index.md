@@ -1,8 +1,8 @@
 ## Runqiu Bao （包潤秋）
 
-aa|ba|va
+aa|ba|
 --|--|--
-aa|gg|gg
+aa|gg|
 
 ### About Me
 
