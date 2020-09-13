@@ -5,8 +5,7 @@ PhD student, <br>
 Robotics & Computer Vision, <br>
 Precision Engineering, <br>
 University of Tokyo. <br> 
-Homepage of my lab: [Asama&Yamashita_Lab](http://www.robot.t.u-tokyo.ac.jp/yamalab/).
-<br><br><br><br>
+Homepage of my lab: [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yamalab/).<br>
 
 ### About Me
 
