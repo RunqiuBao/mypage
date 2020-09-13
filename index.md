@@ -1,7 +1,8 @@
 ## Runqiu Bao （包潤秋）
 
-![profile](https://i.imgur.com/aJxtz6w.jpg)  | PhD student, Robotics & Computer Vision, Precision Engineering, University of Tokyo.
-                                             | [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yamalab/).
+!<profile src="https://i.imgur.com/aJxtz6w.jpg" width="20">  | PhD student, Robotics & Computer Vision, Precision Engineering, University of Tokyo.|  
+--|--|--
+  |[Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yamalab/).|  
 
 ### About Me
 
