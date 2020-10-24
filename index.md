@@ -8,7 +8,13 @@ University of Tokyo. <br>
 
 Homepage of my lab: [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yamalab/).<br>
 
-### About Me
+### Motto
+"Good science responds to real phenomena or real problems."<br>
+"Good science is in the details." <br>
+"Good science makes a difference." <br>
+---アレン・ニューウェル<br>
+
+### Updates
 
 - Release of [code](https://github.com/RunqiuBao/kenki-positioning-vSLAM) for _vslam-based construction machine positioning_, 2020.08.11. 
 
