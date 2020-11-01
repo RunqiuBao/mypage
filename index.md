@@ -27,12 +27,12 @@ Homepage of my lab: [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yam
 
 <img src="https://i.imgur.com/mBhgwmd.png" align="left" width="100">
 
-- [1] Runqiu Bao, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita, and Hajime Asama. Cost-effective and robust visual based localization with consumer-level cameras at construction sites. In Proceedings of the 2019 IEEE Global Conference on Consumer Electronics (GCCE 2019), pages 983–985,2019. 
+- [1] **Runqiu Bao**, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita, and Hajime Asama. Cost-effective and robust visual based localization with consumer-level cameras at construction sites. In Proceedings of the 2019 IEEE Global Conference on Consumer Electronics (GCCE 2019), pages 983–985,2019. 
 
 <img src="https://i.imgur.com/0b6HAxk.jpg" align="left" width="100">
 
-- [2] Runqiu Bao, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita and Hajime Asama: “Stereo Camera Visual SLAM with Hierarchical Masking and Motion-state Classification at Outdoor Construction Sites Containing Large Dynamic Objects,” Advanced Robotics. (Under review) 
+- [2] **Runqiu Bao**, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita and Hajime Asama: “Stereo Camera Visual SLAM with Hierarchical Masking and Motion-state Classification at Outdoor Construction Sites Containing Large Dynamic Objects,” Advanced Robotics. (Under review) 
 
 <img src="https://i.imgur.com/6LcIICW.png" align="left" width="100">
 
-- [3] 千野 雅紀, Runqiu Bao,小松 廉, Renato Miyagusuku, 山下 淳, 淺間 一: “土工現場における画像を用いた位置情報取得システムの適用可能性,” 土木学会令和2年度全国大会第75回年次学術講演会講演概要集, VI-1112, pp. 1-2, September 2020.
+- [3] 千野 雅紀, **Runqiu Bao**,小松 廉, Renato Miyagusuku, 山下 淳, 淺間 一: “土工現場における画像を用いた位置情報取得システムの適用可能性,” 土木学会令和2年度全国大会第75回年次学術講演会講演概要集, VI-1112, pp. 1-2, September 2020.
