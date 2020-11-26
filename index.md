@@ -31,7 +31,7 @@ Homepage of my lab: [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yam
 
 <img src="https://i.imgur.com/0b6HAxk.jpg" align="left" width="100">
 
-- [2] **Runqiu Bao**, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita and Hajime Asama: “Stereo Camera Visual SLAM with Hierarchical Masking and Motion-state Classification at Outdoor Construction Sites Containing Large Dynamic Objects,” Advanced Robotics. (Under review) 
+- [2] **Runqiu Bao**, Ren Komatsu, Renato Miyagusuku, Masaki Chino, Atsushi Yamashita and Hajime Asama: “Stereo Camera Visual SLAM with Hierarchical Masking and Motion-state Classification at Outdoor Construction Sites Containing Large Dynamic Objects,” Advanced Robotics, 2021. 
 
 <img src="https://i.imgur.com/6LcIICW.png" align="left" width="100">
 
