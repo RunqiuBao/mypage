@@ -16,7 +16,7 @@ Homepage of my lab: [Asama & Yamashita Lab](http://www.robot.t.u-tokyo.ac.jp/yam
 
 ### Updates
 
-- Release of [code](https://github.com/RunqiuBao/kenki-positioning-vSLAM) for _vslam-based construction machine positioning_, 2020.08.11. 
+- Release of [code](https://github.com/RunqiuBao/kenki-positioning-vSLAM) for _our Advanced Robotics paper_, 2020.08.11. 
 
 ### Curriculum Vitae
 
