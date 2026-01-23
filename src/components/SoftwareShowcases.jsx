@@ -1,4 +1,6 @@
 import { motion } from 'framer-motion';
+import evShowImg from '../resources/evshow.png';
+import kpvSLAMImg from '../resources/kenki-position-vSLAM.png'
 
 const SoftwareShowcases = () => {
   const software = [
@@ -8,7 +10,7 @@ const SoftwareShowcases = () => {
       features: ['Event camera', 'Visualization'],
       rating: 3,
       logo: <img
-        src="/resources/evshow.png"
+        src={evShowImg}
         alt="Profile"
         className="w-12 h-12 object-cover"
       />,
@@ -38,7 +40,7 @@ const SoftwareShowcases = () => {
       users: '5',
       rating: 30,
       logo: <img
-        src="/resources/kenki-position-vSLAM.png"
+        src={kpvSLAMImg}
         alt="Profile"
         className="w-12 h-12 object-cover"
       />,

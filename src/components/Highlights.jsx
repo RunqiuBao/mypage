@@ -1,4 +1,7 @@
 import { motion } from 'framer-motion';
+import crankshaftcellImg from '../resources/crankshaftcell.png';
+import assemblycellImg from '../resources/irex2022_assemblycell.png';
+import visualSLAMImg from '../resources/visualSLAM.png'
 
 const Highlights = () => {
   const highlights = [
@@ -6,7 +9,7 @@ const Highlights = () => {
       title: 'Crankshaft binpicking',
       description: 'Precise crankshafts 3D detection and picking from source to dest.',
       icon: <img
-        src="/resources/crankshaftcell.png"
+        src={crankshaftcellImg}
         alt="Profile"
         className="w-72 h-48 object-cover"
       />,
@@ -22,7 +25,7 @@ const Highlights = () => {
         </>
       ),
       icon: <img
-        src="/resources/irex2022_assemblycell.png"
+        src={assemblycellImg}
         alt="Profile"
         className="w-72 h-48 object-cover"
       />,
@@ -37,7 +40,7 @@ const Highlights = () => {
         </>
       ),
       icon: <img
-        src="/resources/visualSLAM.png"
+        src={visualSLAMImg}
         alt="Profile"
         className="w-72 h-48 object-cover"
       />,

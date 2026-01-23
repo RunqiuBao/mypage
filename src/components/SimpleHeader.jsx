@@ -1,5 +1,7 @@
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState } from 'react';
+import profileImg from '../resources/DSC00726.jpg';
+
 
 const SimpleHeader = ({ darkMode, setDarkMode }) => {
   const [hoveredLink, setHoveredLink] = useState(null);
@@ -44,7 +46,7 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
     },
     {
       name: 'CV',
-      url: '/resources/CV_RUNQIU_BAO_ENGLISH.pdf',
+      url: '${import.meta.env.BASE_URL}resources/CV_RUNQIU_BAO_ENGLISH.pdf',
       icon: (
         <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
@@ -95,7 +97,7 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
           >
             <div className="w-40 h-56 sm:w-48 sm:h-72 rounded-xl overflow-hidden shadow-lg">
               <img
-                src="/resources/DSC00726.jpg"
+                src={profileImg}
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
