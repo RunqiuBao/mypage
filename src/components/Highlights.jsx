@@ -11,7 +11,7 @@ const Highlights = () => {
       icon: <img
         src={crankshaftcellImg}
         alt="Profile"
-        className="w-full aspect-video sm:w-72 sm:h-48 object-cover"
+        className="w-36 aspect-video sm:w-72 sm:h-48 object-cover"
       />,
       color: 'from-green-500 to-emerald-500',
       videoUrl: 'https://www.youtube.com/watch?time_continue=1&v=AEISEHFJyRs&embeds_referring_euri=https%3A%2F%2Fwww.mujin.co.jp%2F&source_ve_path=Mjg2NjY'
@@ -27,7 +27,7 @@ const Highlights = () => {
       icon: <img
         src={assemblycellImg}
         alt="Profile"
-        className="w-full aspect-video sm:w-72 sm:h-48 object-cover"
+        className="w-36 aspect-video sm:w-72 sm:h-48 object-cover"
       />,
       color: 'from-yellow-500 to-orange-500',
       videoUrl: 'http://youtube.com/watch?v=qUrZC3w8By8' // Add this
@@ -42,7 +42,7 @@ const Highlights = () => {
       icon: <img
         src={visualSLAMImg}
         alt="Profile"
-        className="w-full aspect-video sm:w-72 sm:h-48 object-cover"
+        className="w-36 aspect-video sm:w-72 sm:h-48 object-cover"
       />,
       color: 'from-yellow-500 to-orange-500',
     },
