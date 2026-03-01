@@ -18,6 +18,11 @@ jobs:
         with:
           lfs: true
 
+      - name: Verify LFS files
+        run: |
+          git lfs ls-files
+          file src/resources/*.png
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -29,6 +34,10 @@ jobs:
 
       - name: Build project
         run: npm run build
+
+      - name: Verify dist images
+        run: |
+          find ./dist -name "*.png" -o -name "*.jpg" | head -5 | xargs file
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
