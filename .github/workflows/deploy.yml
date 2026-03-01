@@ -20,8 +20,11 @@ jobs:
 
       - name: Verify LFS files
         run: |
+          echo "=== LFS tracked files ==="
           git lfs ls-files
-          file src/resources/*.png
+          echo ""
+          echo "=== Check actual file types ==="
+          find src/resources -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.pdf" \) | xargs file
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -35,9 +38,10 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Verify dist images
+      - name: Verify dist assets
         run: |
-          find ./dist -name "*.png" -o -name "*.jpg" | head -5 | xargs file
+          echo "=== Built assets ==="
+          find ./dist -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.pdf" \) | xargs file
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
