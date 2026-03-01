@@ -59,7 +59,7 @@ const Highlights = () => {
           className="mb-6"
         >
           <h2 className="text-xl sm:text-2xl font-l text-slate-900 dark:text-white mb-1">
-            Highlights
+            High Lights
           </h2>
           {/* <p className="text-slate-600 dark:text-slate-400">
             Key achievements and milestones throughout my career

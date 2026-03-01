@@ -1,6 +1,9 @@
 import { motion } from 'framer-motion';
 import evShowImg from '../resources/evshow.png';
 import kpvSLAMImg from '../resources/kenki-position-vSLAM.png'
+import sam3Img from '../resources/sam3_in_trt.png'
+import stereoMatchingImg from '../resources/stereo_matching_events.png'
+import nmea2xyzImg from '../resources/nmea2xyz.png'
 
 const SoftwareShowcases = () => {
   const software = [
@@ -18,11 +21,17 @@ const SoftwareShowcases = () => {
       repo: 'https://github.com/RunqiuBao/evshow',
     },
     {
-      name: 'tool_objectbasedslam',
-      description: 'A lib for fast object based visual stereo SLAM.',
-      features: ['Stereo Object Detection', 'Object-based visual SLAM'],
-      language: 'C++, Python',
-      repo: 'https://github.com/RunqiuBao/tool_objectbasedslam/tree/main',
+      name: 'sam3_in_trt',
+      description: "Convert Meta's SAM3 model to TensorRT for optimized inference on NVIDIA GPUs.",
+      features: ['SAM3 foundation model', 'TensorRT'],
+      rating: 1,
+      logo: <img
+        src={sam3Img}
+        alt="Profile"
+        className="w-12 h-12 object-cover"
+      />,
+      language: 'Python, Makefile, Shell',
+      repo: 'https://github.com/RunqiuBao/sam3_in_trt',
     },
     {
       name: 'fov_alignment',
@@ -47,6 +56,39 @@ const SoftwareShowcases = () => {
       language: 'C++, Cuda',
       repo: 'https://github.com/RunqiuBao/kenki-positioning-vSLAM',
     },
+    {
+      name: 'tool_objectbasedslam',
+      description: 'A lib for fast object based visual stereo SLAM.',
+      features: ['Stereo Object Detection', 'Object-based visual SLAM'],
+      language: 'C++, Python',
+      repo: 'https://github.com/RunqiuBao/tool_objectbasedslam/tree/main',
+    },
+    {
+      name: 'stereo_matching_with_event',
+      description: 'Stereo Matching with RGB and Event input.',
+      features: ['Stereo matching', "Event camera"],
+      rating: 1,
+      logo: <img
+        src={stereoMatchingImg}
+        alt="Profile"
+        className="w-12 h-12 object-cover"
+      />,
+      language: 'Python, Cuda, C++',
+      repo: 'https://github.com/RunqiuBao/stereo_matching_with_event',
+    },
+    {
+      name: 'nmea2xyz',
+      description: "Convert NMEA messages (GNSS) to Cartesian coordinates.",
+      features: ['NMEA', 'Coordinates transform'],
+      rating: 1,
+      logo: <img
+        src={nmea2xyzImg}
+        alt="Profile"
+        className="w-12 h-12 object-cover"
+      />,
+      language: 'Python',
+      repo: 'https://github.com/RunqiuBao/nmea2xyz',
+    },
   ];
 
   return (
@@ -60,7 +102,7 @@ const SoftwareShowcases = () => {
           className="mb-6"
         >
           <h2 className="text-xl sm:text-2xl font-l text-slate-900 dark:text-white mb-1">
-            MyProjects
+            My Projects
           </h2>
           {/* <p className="text-slate-600 dark:text-slate-400"> */}
             {/* Production-ready software and tools I've built and launched */}

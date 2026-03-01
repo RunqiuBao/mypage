@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 const ContentNavigation = ({ activeTab, setActiveTab }) => {
   const tabs = [
-    { id: 'highlights', label: 'Highlights' },
+    { id: 'highlights', label: 'HighLights' },
     // { id: 'projects', label: 'Projects' },
     { id: 'software', label: 'MyProjects' },
   ];

@@ -58,11 +58,15 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
 
   const personalUpdates = [
     {
-      date: 'Jan 2026',
+      date: 'Feb. 2026',
+      update: 'Released personal project "sam3_in_trt".',
+    },
+    {
+      date: 'Jan. 2026',
       update: 'Released personal project "tool_objectbasedslam".',
     },
     {
-      date: 'Dec 2025',
+      date: 'Dec. 2025',
       update: 'Attended Tokyo IRex 2025 at the booth of Mujin Inc.',
     },
   ];
@@ -229,7 +233,7 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
                 <span>Recent Updates</span>
                 <span className="text-xs bg-primary/10 dark:bg-secondary/10 text-primary dark:text-secondary px-2 py-0.5 rounded-full">
                   {/* {personalUpdates.length} */}
-                  "(until 2026.01)"
+                  "(until 2026.02)"
                 </span>
               </button>
 
