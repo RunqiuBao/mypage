@@ -205,7 +205,7 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
               className="text-slate-500 dark:text-slate-400 leading-relaxed mb-6 space-y-3"
             >
               <p>
-                Runqiu Bao (潤秋　包) was born in China in 1995. He received his B.Sc. (2018) from School of Automotive Studies in Tongji University (TJU) in Shanghai and M.Sc. (2020) from School of Engineering in the University of Tokyo (UTokyo).
+                Runqiu Bao (潤秋　包) was born in China in 1995. He received his Bachelor of Engineering (2018) from School of Automotive Studies in Tongji University (TJU) in Shanghai and Master of Engineering (2020) from School of Engineering in the University of Tokyo (UTokyo).
               </p>
               <p>
                 During his bachelor period, he attended the <a href="https://www.robomaster.com/en-US" target="_blank" rel="noopener noreferrer"><u>RoboMaster Competition</u></a> and thus started his journey as a robot developer. In the master period, he was working on object-level visual SLAM and mobile robots navigation supervised by <a href="https://www.robot.t.u-tokyo.ac.jp/yamalab/index-e.html" target="_blank" rel="noopener noreferrer"><u>Prof. Yamashita Atsushi</u></a>. In 2021, he joined <a href="https://www.mujin.co.jp/" target="_blank" rel="noopener noreferrer"><u>Mujin Inc.</u></a> as a robotics and computer vision engineer and is working on creating robot products in real-world environments.
