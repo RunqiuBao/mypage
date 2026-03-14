@@ -63,7 +63,7 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
     },
     {
       date: 'Jan. 2026',
-      update: 'Released personal project "tool_objectbasedslam".',
+      update: 'Released personal project "evcam-objectslam".',
     },
     {
       date: 'Dec. 2025',
