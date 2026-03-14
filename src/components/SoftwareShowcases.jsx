@@ -57,11 +57,11 @@ const SoftwareShowcases = () => {
       repo: 'https://github.com/RunqiuBao/kenki-positioning-vSLAM',
     },
     {
-      name: 'tool_objectbasedslam',
-      description: 'A lib for fast object based visual stereo SLAM.',
-      features: ['Stereo Object Detection', 'Object-based visual SLAM'],
+      name: 'evcam-objectslam',
+      description: 'A lib for fast object based visual stereo SLAM with event camera.',
+      features: ['Stereo Object Detection', 'Object-based visual SLAM', 'event camera'],
       language: 'C++, Python',
-      repo: 'https://github.com/RunqiuBao/tool_objectbasedslam/tree/main',
+      repo: 'https://github.com/RunqiuBao/evcam-objectslam/tree/main',
     },
     {
       name: 'stereo_matching_with_event',
