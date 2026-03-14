@@ -60,6 +60,7 @@ const SoftwareShowcases = () => {
       name: 'evcam-objectslam',
       description: 'A lib for fast object based visual stereo SLAM with event camera.',
       features: ['Stereo Object Detection', 'Object-based visual SLAM', 'event camera'],
+      rating: 1,
       language: 'C++, Python',
       repo: 'https://github.com/RunqiuBao/evcam-objectslam/tree/main',
     },
