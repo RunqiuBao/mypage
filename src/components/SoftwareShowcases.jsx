@@ -4,9 +4,23 @@ import kpvSLAMImg from '../resources/kenki-position-vSLAM.png'
 import sam3Img from '../resources/sam3_in_trt.png'
 import stereoMatchingImg from '../resources/stereo_matching_events.png'
 import nmea2xyzImg from '../resources/nmea2xyz.png'
+import overgrassImg from '../resources/overgrass-logo.png'
 
 const SoftwareShowcases = () => {
   const software = [
+    {
+      name: 'overgrass',
+      description: 'Your local overleaf editor. A LaTeX editor running on your own machine.',
+      features: ['LaTeX editor', 'Local-first'],
+      rating: 1,
+      logo: <img
+        src={overgrassImg}
+        alt="Profile"
+        className="w-12 h-12 object-cover"
+      />,
+      language: 'TypeScript',
+      repo: 'https://github.com/RunqiuBao/overgrass',
+    },
     {
       name: 'EvShow',
       description: 'Visualize events camera stream. Supporting SBT, SBN, Concentrated SBN, e2vid.',

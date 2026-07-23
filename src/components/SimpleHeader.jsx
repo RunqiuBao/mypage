@@ -58,6 +58,10 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
 
   const personalUpdates = [
     {
+      date: 'Jul. 2026',
+      update: 'Released personal project "overgrass".',
+    },
+    {
       date: 'Feb. 2026',
       update: 'Released personal project "sam3_in_trt".',
     },
