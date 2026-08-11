@@ -132,7 +132,7 @@ const SimpleHeader = ({ darkMode, setDarkMode }) => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-xl sm:text-2xl font-medium text-primary dark:text-secondary mb-4"
             >
-              Roboticist & software developer
+              Computer vision engineer & software developer
             </motion.p>
 
             {/* Current Position & Location */}
